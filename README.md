@@ -1,78 +1,89 @@
-<!-- Profile README for https://github.com/ayushdhiman7 -->
+<!-- GitHub profile README | https://github.com/ayushdhiman7 -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Ayush%20Kumar&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20useful%20things%20with%20code&descAlignY=60&descSize=16" alt="Ayush Kumar profile banner" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=180&section=header&text=AYUSH%20KUMAR&fontSize=42&fontColor=F8FAFC&fontAlignY=42&desc=FULL-STACK%20SOFTWARE%20ENGINEER&descSize=15&descAlignY=68&descColor=94A3B8"
+    width="100%"
+    alt="Ayush Kumar — Full-Stack Software Engineer"
+  />
 
-  <a href="https://github.com/ayushdhiman7">
-    <img src="https://img.shields.io/badge/GitHub-ayushdhiman7-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="https://github.com/ayushdhiman7/ayush-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio project" />
-  </a>
+  <p>
+    <a href="https://github.com/ayushdhiman7">
+      <img src="https://img.shields.io/badge/GitHub-ayushdhiman7-0B1220?style=flat-square&logo=github" alt="GitHub profile" />
+    </a>
+    <a href="https://github.com/ayushdhiman7/ayush-portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-Source%20Code-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio source code" />
+    </a>
+  </p>
 
 </div>
 
----
+## About
 
-## 👋 Hey, I'm Ayush!
+I'm a **Full-Stack Software Engineer** focused on building reliable web applications, backend services, and integrations that solve real business problems. I work across the stack—from responsive user interfaces and API design to database workflows, third-party services, and deployment.
 
-I'm a **Full-Stack Developer** who enjoys turning ideas into practical, reliable web applications. I work across frontend and backend development, build APIs and integrations, and enjoy solving real-world engineering problems.
+I value readable code, thoughtful architecture, practical problem-solving, and continuous learning. I'm also exploring how **AI and LLM-powered features** can make software more useful.
 
-- 💻 **Frontend:** React.js, Next.js, Vue.js, TypeScript and Tailwind CSS
-- ⚙️ **Backend:** Node.js, Express.js, Laravel and Python/FastAPI
-- 🗄️ **Databases:** MongoDB, MySQL and PostgreSQL
-- 🤖 **Exploring:** AI-powered applications, LLM integrations and automation
-- 🧠 **Currently improving:** Data structures and algorithms, system design and backend architecture
-- 🎯 **Goal:** Build useful products, write maintainable code and keep learning.
+- **Frontend:** React, Next.js, Vue.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express, Laravel, Python, FastAPI
+- **Data:** MongoDB, MySQL, PostgreSQL
+- **Engineering:** REST APIs, integrations, authentication, Docker, testing, debugging
+- **Currently learning:** Data structures and algorithms, system design, and applied AI
 
-## 🛠️ Tech stack
+## Technologies
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,html,css,nodejs,express,laravel,python,fastapi,mongodb,mysql,postgres,docker,git,github,postman&perline=10" alt="Technologies: JavaScript, TypeScript, React, Next.js, Vue, Tailwind, HTML, CSS, Node.js, Express, Laravel, Python, FastAPI, MongoDB, MySQL, PostgreSQL, Docker, Git, GitHub and Postman" />
+  <p><strong>Frontend</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind" alt="React, Next.js, Vue, TypeScript, JavaScript, HTML, CSS, Tailwind CSS" />
+
+  <p><strong>Backend & Data</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,fastapi,mongodb,mysql,postgres" alt="Node.js, Express, PHP, Laravel, Python, FastAPI, MongoDB, MySQL, PostgreSQL" />
+
+  <p><strong>Tools & Workflow</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" alt="Git, GitHub, Docker, Postman, Linux, Visual Studio Code" />
 
 </div>
 
-## 🚀 What I'm building
+## Selected Engineering Work
 
-- **Full-stack applications** — responsive interfaces, backend APIs, authentication, database design and third-party integrations.
-- **E-commerce features** — checkout flows, vouchers and discounts, delivery integrations, dashboards and order workflows.
-- **Learning and tracking tools** — workflow automation, progress tracking and integrations with external platforms.
-- **AI-powered tools** — exploring ways to combine LLMs, APIs and automation to solve practical problems.
+### Commerce platforms and integrations
+Built and maintained full-stack commerce features including checkout flows, voucher and discount logic, order workflows, admin dashboards, and delivery/payment integrations.
 
-## 🌟 Featured work
+### Practical Hours Tracker — Canvas LMS
+Worked on an LTI 1.3 application for tracking trainee practical hours, including course-aware workflows, configurable requirements, progress calculations, and Canvas module progression.
 
-### [Ayush Portfolio](https://github.com/ayushdhiman7/ayush-portfolio)
-A modern portfolio website built with Next.js, TypeScript, Tailwind CSS and shadcn/ui.
+### Portfolio and AI exploration
+- **[Ayush Portfolio](https://github.com/ayushdhiman7/ayush-portfolio)** — portfolio website built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui.
+- **[Wave AI](https://github.com/ayushdhiman7/wave-ai)** — an AI-focused project.
 
-### [Wave AI](https://github.com/ayushdhiman7/wave-ai)
-An AI-focused project I'm developing and exploring.
+*Some professional work is private, so source code and client details are not publicly available.*
 
-> I also work on client projects, including full-stack commerce features and workflow integrations. Some client work is private and isn't linked here.
-
-## 📊 GitHub at a glance
+## GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushdhiman7&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Ayush's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdhiman7&layout=compact&hide_border=true&theme=transparent" alt="Most used languages on GitHub" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ayushdhiman7&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+    height="165"
+    alt="GitHub profile statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdhiman7&layout=compact&hide_border=true&theme=transparent"
+    height="165"
+    alt="Most-used programming languages"
+  />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushdhiman7&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</div>
+## Get in touch
 
-## 🤝 Let's connect
-
-I'm interested in collaborating on useful products, web applications, backend systems and AI-powered projects.
+I'm open to connecting with developers and teams working on thoughtful web products, backend systems, integrations, and AI-enabled applications.
 
 - **GitHub:** [@ayushdhiman7](https://github.com/ayushdhiman7)
-- **Portfolio project:** [View the source code](https://github.com/ayushdhiman7/ayush-portfolio)
+- **Portfolio repository:** [ayush-portfolio](https://github.com/ayushdhiman7/ayush-portfolio)
 
 <div align="center">
 
-  *Thanks for stopping by! Feel free to explore my repositories.*
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer" alt="" width="100%" />
+  <sub>Building, learning, and improving—one iteration at a time.</sub>
 
 </div>
